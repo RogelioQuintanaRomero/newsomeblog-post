@@ -76,6 +76,5 @@ Rails.application.configure do
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
-  #parametro agregado para compilar tipo de archivos señalados
-  config.assets.precompile = %w( *.js *.css )
+
 end

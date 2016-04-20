@@ -1,0 +1,13 @@
+/* line 4, /home/rogeliotwo/Escritorio/newsomeblog-post/app/assets/stylesheets/pages.scss */
+.camioneta_image {
+  width: 120px;
+  height: 120px;
+  background-image: url("camioneta.jpg");
+}
+
+/* line 9, /home/rogeliotwo/Escritorio/newsomeblog-post/app/assets/stylesheets/pages.scss */
+.auto_image {
+  width: 120px;
+  height: 120px;
+  background-image: url("auto.jpg");
+}
